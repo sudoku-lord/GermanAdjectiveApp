@@ -1,0 +1,9 @@
+*~
+*.log
+*.egg-info/
+*.pyc
+.DS_Store
+__pycache__/
+env/
+.vagrant/
+/german_app/html/
